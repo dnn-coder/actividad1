@@ -102,3 +102,51 @@ body {
     box-shadow: 5px 5px #c7ecee;
     margin: 20px;
 }
+
+.consolasBox {
+    display: inline-block;
+    background-color: yellow;
+    color: #282c34;
+    height: 300px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px #c7ecee;
+    margin: 20px;
+}
+
+.librosBox {
+    display: inline-block;
+    background-color: brown;
+    color: #282c34;
+    height: 300px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px #c7ecee;
+    margin: 20px;
+}
+
+.juegosBox {
+    display: inline-block;
+    background-color: crimson;
+    color: #282c34;
+    height: 300px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px #c7ecee;
+    margin: 20px;
+}
+
+.lenguajesBox {
+    display: inline-block;
+    background-color: violet;
+    color: #282c34;
+    height: 300px;
+    width: 400px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 5px 5px #c7ecee;
+    margin: 20px;
+}
